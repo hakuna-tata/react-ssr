@@ -1,0 +1,1 @@
+export const GET_TOPIC_LIST = "GET_TOPIC_LIST";
